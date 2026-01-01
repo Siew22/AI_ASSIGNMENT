@@ -1,0 +1,22 @@
+# PyTorch Core (Deep Learning)
+torch>=2.0.0
+torchvision>=0.15.0
+torchaudio>=2.0.0
+
+# Data Processing & Math (数据处理)
+numpy>=1.24.0
+pandas>=2.0.0
+
+# Image Processing (图像处理)
+Pillow>=9.0.0
+
+# Machine Learning Metrics (评估指标: Accuracy, ROC, etc.)
+scikit-learn>=1.3.0
+
+# Visualization (绘图)
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Utilities (进度条等工具)
+tqdm>=4.65.0
+nvidia-ml-py==13.590.44
